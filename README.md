@@ -27,7 +27,7 @@ EPG Smart-Sync: An automated Electronic Program Guide that updates in real-time 
 Deployment & Documentation
 This project is currently being utilized to power a high-end streaming ecosystem. For full documentation, service trials, and configuration guides, visit the official project hub:
 
-Official Project Hub: [suspicious link removed]
+Official Project Hub: [Orca 4K TV - Best IPTV USA 2026](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://orca4ktv.com/iptv-shop&ved=2ahUKEwiw083ppJyUAxXPzQIHHTgPFqkQFnoECBwQAQ&usg=AOvVaw1b9ZuY3KFiCPUAC7Bhh8qe)
 
 About the Developer
 Built by a specialized team of developers focused on the future of digital entertainment and IPTV infrastructure. The goal of this project is to bridge the gap between traditional cable reliability and the flexibility of modern over-the-top (OTT) streaming.
